@@ -1,7 +1,0 @@
-vmess://ws+tls:6157d5df-2507-45a0-b6f1-8864ef3cfa0e-0@172.64.159.165:443/?path=/dhuwisc&tlsServerName=makevmess-prod-make-4joktf.mo2.mogenius.io#vmess@172.64.159.165:443
-
-vmess://ws+tls:3e0c4510-2005-43c7-b0ef-d509a3eafaf1-0@172.64.159.165:443/?path=/axkeifd&tlsServerName=makevm-prod-make-4joktf.mo2.mogenius.io#vmess@172.64.159.165:443
-
-vless://49179020-8182-41a3-97e6-b0e27a3aed5f@172.64.159.165:443?type=ws&security=tls&path=%2F49179020-8182-41a3-97e6-b0e27a3aed5f-vless&host&sni=namee-prod-name-qrkn3e.mo2.mogenius.io#vless%40172.64.159.165%3A443
-
-vless://b7c05dc4-8ca7-4719-aa5d-995adbe0a026@172.64.159.165:443?type=ws&security=tls&path=%2Fb7c05dc4-8ca7-4719-aa5d-995adbe0a026-vless&host&sni=namevle-prod-name-qrkn3e.mo2.mogenius.io#vless%40172.64.159.165%3A443
